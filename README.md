@@ -11,8 +11,8 @@ report any bugs or feature requests and to see the list of known issues.
 ## License
 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+* 
 
-## Building
 
 ### With Gradle
 
